@@ -1,0 +1,11 @@
+Customer_ID,Name,Balance ,Loan ,City
+101,Ravi,800000,600000,Hyderabad
+102,Sita,500000,300000,Vizag
+103,Arun,900000,700000,Vijayawada
+104,Priya,300000,200000,Hyderabad
+105,Kiran,700000,550000,Chennai
+106,Anu,400000,100000,Vizag
+107,Raj,1000000,800000,Hyderabad
+108,Neha,600000,400000,Chennai
+109,Sai,200000,600000,Vijayawada
+110,Teja,550000,250000,Vizag
